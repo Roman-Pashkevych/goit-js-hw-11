@@ -1,0 +1,20 @@
+.search-form {
+  background-color: darkblue;
+  display: flex;
+  justify-content: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+input {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 5px;
+  border-color: white;
+}
+
+button {
+  background-color: #fff;
+  border: none;
+  cursor: pointer;
+}
